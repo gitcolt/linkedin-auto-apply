@@ -1,0 +1,4 @@
+username = 'example@email.com'
+password = 'password123'
+max_jobs = 100
+search_string = 'web developer'
